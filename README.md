@@ -2,9 +2,11 @@
 
 
 - 🌱 I’m currently learning Golang
-- 💬 Ask me about java and springboot
-- 📫 How to reach me: Twitter : https://twitter.com/yu83612457
+- 💬 Focus on jave backend
+- ₿ Extremely interested in crypto 
+- 📫 How to reach me [Twitter](https://twitter.com/yu83612457) [Email](yu83612457@gmail.com)
 - 😄 Pronouns: He/His
+- 🏳️‍🌈 LGBTQ friendly
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CadeYu&count_private=true&show_icons=true&theme=radical)
