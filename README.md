@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am **cade**
 ***
 
 - 🌱 I’m currently learning Golang
