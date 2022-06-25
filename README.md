@@ -8,6 +8,7 @@
 - 😄 Pronouns: He/His
 - 🏳️‍🌈 LGBTQ friendly
 ***
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CadeYu&count_private=true&show_icons=true&theme=radical)
 
 ***
 
