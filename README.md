@@ -15,6 +15,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
+ [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+***
+
 ## EVAngelion forever
 
 ![info](https://github.com/CadeYu/CadeYu/blob/main/pic/94219701_p0_master1200.jpg)
