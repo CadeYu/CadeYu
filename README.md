@@ -31,7 +31,3 @@
  
 
 ***
-
-## EVAngelion forever
-
-![info](https://github.com/CadeYu/CadeYu/blob/main/pic/94219701_p0_master1200.jpg)
