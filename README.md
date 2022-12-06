@@ -7,7 +7,8 @@
 - 😄 Pronouns: He/His
 - 🏳️‍🌈 LGBTQ friendly
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CadeYu&show_icons=true&theme=radical)
+![cade's GitHub stats](https://github-readme-stats.vercel.app/api?username=CadeYu)
+
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CadeYu)](https://github.com/anuraghazra/github-readme-stats)
 ***
