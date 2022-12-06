@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Golang
 - 💬 Focus on JAVA backend
 - ₿ Extremely interested in crypto 
-- 📫 How to reach me [Twitter](https://twitter.com/yu83612457) 
 - 😄 Pronouns: He/His
 - 🏳️‍🌈 LGBTQ friendly
 ***
