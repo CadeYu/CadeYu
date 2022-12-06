@@ -7,10 +7,10 @@
 - 😄 Pronouns: He/His
 - 🏳️‍🌈 LGBTQ friendly
 ***
-[![cade's GitHub stats](https://github-readme-stats.vercel.app/api?username=CadeYu)](https://github.com/anuraghazra/github-readme-stats)
+[![cade's GitHub stats](https://github-readme-stats.vercel.app/api?username=CadeYu&show_icons=true&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CadeYu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CadeYu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ***
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
