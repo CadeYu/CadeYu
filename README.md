@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Golang
 - 💬 Focus on JAVA backend
-- ₿ Extremely interested in crypto 
+-  ₿  Extremely interested in crypto 
 - 😄 Pronouns: He/His
 - 🏳️‍🌈 LGBTQ friendly
 ***
