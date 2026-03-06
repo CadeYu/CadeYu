@@ -13,21 +13,14 @@ jobs:
           template: classic
           base: header, activity, community, repositories
           
-          # 核心插件（最稳的）
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage
-          
-          # 习惯插件（看你什么时候最活跃）
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          
-          # 统计你的 Star 情况
-          plugin_stars: yes
-          plugin_stars_limit: 4
-
-          # 暂时关闭 Achievements 和 Isocalendar（这两个最容易红）
+          # 核心：关闭会导致报错的插件
           plugin_achievements: no
           plugin_isocalendar: no
+          
+          # 优化语言显示
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          
+          # 保留你喜欢的 Star 统计
+          plugin_stars: yes
+          plugin_stars_limit: 4
