@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Cade</h1>
 
 <p align="center">
-  Java backend developer • Python for and AI tooling • Exploring AI agents, open source
-</p>
+  Java backend developer • Python for and AI tooling • Exploring AI agents ,open source
 
 <p align="center">
   <a href="https://github.com/TauricResearch/TradingAgents">TradingAgents Contributor</a> ·
@@ -10,10 +9,7 @@
 </p>
 
 ## About Me
-
-- Java is my primary language, and Python is my secondary language
 - I’m interested in backend engineering, AI agent systems
-- Currently building projects across Java, Python, TypeScript
 
 ## Currently Exploring
 
@@ -25,8 +21,7 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CadeYu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CadeYu&layout=compact&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CadeYu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 ## Tech Stack
@@ -40,7 +35,7 @@
 ## Extras
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CadeYu&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=CadeYu&hide_border=true" />
 </p>
 
 <p align="center">
