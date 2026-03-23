@@ -1,9 +1,15 @@
 # Hi, I'm Cade
 
-Backend / AI / Open-source learner focused on Java, Python, TypeScript, and multi-agent systems.
+Backend / AI / Open-source learner focused on Java, Python, and multi-agent systems.
 
 - Open-source contributor to [TradingAgents](https://github.com/TauricResearch/TradingAgents)
 - Merged PR: [#413](https://github.com/TauricResearch/TradingAgents/pull/413)
+  
+## Currently Exploring
+- AI agents, multi-agent orchestration, and LLM application workflows
+- RAG, tool calling, agent memory, and evaluation for agent systems
+- Reasoning models, code agents, and local LLM workflows
+- Open-source contribution, testing, and code review workflows
 
 ## Stats
 
@@ -19,3 +25,5 @@ Backend / AI / Open-source learner focused on Java, Python, TypeScript, and mult
 
 ![](https://streak-stats.demolab.com?user=CadeYu&hide_border=true)
 ![](https://komarev.com/ghpvc/?username=CadeYu&label=Profile%20views&color=0e75b6&style=flat)
+
+
