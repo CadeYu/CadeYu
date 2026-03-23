@@ -26,4 +26,9 @@ Backend / AI / Open-source learner focused on Java, Python, and multi-agent syst
 ![](https://streak-stats.demolab.com?user=CadeYu&hide_border=true)
 ![](https://komarev.com/ghpvc/?username=CadeYu&label=Profile%20views&color=0e75b6&style=flat)
 
+## Contact
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:yu83612457@gmail.com)
+
+
 
