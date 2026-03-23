@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cade</h1>
 
 <p align="center">
-  Java backend developer • Python for and AI tooling • Exploring AI agents ,open source
+  Java backend developer • Python for  AI tooling • Exploring AI agents and open source
 
 <p align="center">
   <a href="https://github.com/TauricResearch/TradingAgents">TradingAgents Contributor</a> ·
