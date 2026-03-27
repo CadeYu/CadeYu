@@ -18,10 +18,13 @@
 - Code agents, local LLM workflows, and model integration
 - Open-source contribution, testing, and code review practices
 
+
 ## Stats
 
 <p align="center">
-  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=CadeYu)](https://github.com/ryo-ma/github-profile-trophy)" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CadeYu" alt="GitHub Trophy" />
+  </a>
 </p>
 
 ## Tech Stack
