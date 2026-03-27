@@ -31,16 +31,6 @@
 
 [![](https://raw.githubusercontent.com/CadeYu/CadeYu/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/CadeYu/CadeYu/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## Extras
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CadeYu&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CadeYu&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ## Contact
 
 - Email: `yu83612457@gmail.com`
