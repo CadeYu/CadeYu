@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CadeYu" alt="GitHub Trophy" />
+    <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=CadeYu" alt="GitHub Trophy" />
   </a>
 </p>
 
