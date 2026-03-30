@@ -17,6 +17,8 @@
 - Code agents, local LLM workflows, and model integration
 - Open-source contribution, testing, and code review practices
 
+[![](https://github-readme-stats.vercel.app/api?username=CadeYu&show_icons=true&rank_icon=github&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Stats
 
