@@ -15,18 +15,9 @@
 - AI agents, multi-agent orchestration, and LLM application engineering
 - RAG, tool calling, agent memory, and evaluation workflows
 - Code agents, local LLM workflows, and model integration
-- Open-source contribution, testing, and code review practices
-
-[![](https://github-readme-stats.vercel.app/api?username=CadeYu&show_icons=true&rank_icon=github&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=CadeYu&show_icons=true&rank_icon=github&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![](https://raw.githubusercontent.com/CadeYu/CadeYu/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://raw.githubusercontent.com/CadeYu/CadeYu/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/CadeYu/CadeYu/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-readme-stats.vercel.app/api?username=CadeYu&show_icons=true&hide_border=true&theme=transparent&title_color=ff2e88&text_color=35f2ff&icon_color=f7ff00&ring_color=ff2e88&border_radius=12)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Stack
 
