@@ -4,7 +4,7 @@
   Java backend developer • Python for  AI tooling • Exploring AI agents and open source
 
 <p align="center">
-  <a href="https://github.com/TauricResearch/TradingAgents">TradingAgents Contributor</a> ·
+  <a href="https://github.com/TauricResearch/TradingAgents">TradingAgents Contributor</a>
 </p>
 
 ## About Me
