@@ -5,7 +5,6 @@
 
 <p align="center">
   <a href="https://github.com/TauricResearch/TradingAgents">TradingAgents Contributor</a> ·
-  <a href="https://github.com/TauricResearch/TradingAgents/pull/413">Merged PR #413</a>
 </p>
 
 ## About Me
