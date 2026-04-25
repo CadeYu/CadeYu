@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TauricResearch/TradingAgents">TradingAgents Contributor</a><br>
-  <a href="https://github.com/run-llama/llama_index">LlamaIndex Contributor</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TauricResearch/TradingAgents">TradingAgents Contributor</a>
+  ·
+  <a href="https://github.com/run-llama/llama_index">LlamaIndex Contributor</a>
 </p>
 
 ## About Me
