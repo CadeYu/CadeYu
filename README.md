@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Cade</h1>
 
 <p align="center">
-  Java backend developer • Python for AI tooling • Exploring AI agents and open source
+  Java Backend Developer • Python for AI Tooling • Exploring AI Agents and Open Source
 </p>
 
 <p align="center">
   <a href="https://github.com/TauricResearch/TradingAgents">TradingAgents Contributor</a>
+  <a href="https://github.com/run-llama/llama_index">LlamaIndex Contributor</a>
 </p>
 
 ## About Me
