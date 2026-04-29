@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cade</h1>
 
 <p align="center">
-  Java Backend Developer • Python for AI Tooling • Exploring AI Agents and Open Source
+  Java Backend Developer • Python for AI Tooling • Exploring AI Agents and Crypto 
 </p>
 
 <p align="center">
@@ -17,6 +17,7 @@
 - AI agents, multi-agent orchestration, and LLM application engineering
 - RAG, tool calling, agent memory, and evaluation workflows
 - Code agents, local LLM workflows, and model integration
+  
 
 ## Stats
 
