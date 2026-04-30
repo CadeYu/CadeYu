@@ -11,7 +11,7 @@
 </p>
 
 ## About Me
-- I’m interested in backend engineering and AI agent systems
+- I’m interested in backend engineering and AI agent systems and Web3 stuff
 
 ## Currently Exploring
 - AI agents, multi-agent orchestration, and LLM application engineering
