@@ -4,11 +4,12 @@
   Java Backend Developer • Python for AI Tooling • Exploring AI Agents and Crypto 
 </p>
 
-<p align="center">
-  <a href="https://github.com/TauricResearch/TradingAgents">TradingAgents Contributor</a>
-  ·
-  <a href="https://github.com/run-llama/llama_index">LlamaIndex Contributor</a>
-</p>
+## 🚧 Currently building
+
+- 📈 [TradingAgents](https://github.com/TauricResearch/TradingAgents) — Multi-agent trading research framework and AI financial analysis workflows
+- 🧠 [LlamaIndex](https://github.com/run-llama/llama_index) — Data framework for LLM applications, RAG pipelines, and agentic tooling
+- 🌱 [spring-alpha](https://github.com/CadeYu/spring-alpha) — Spring Boot backend experiments and production-oriented Java service patterns
+- 🦙 [DefiLlama](https://github.com/DefiLlama/dimension-adapters) — DeFi data adapters for fees, revenue, users, and on-chain protocol analytics
 
 ## About Me
 - I’m interested in backend engineering and AI agent systems and Web3 stuff
