@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Cade</h1>
 
 <p align="center">
-  Java Backend Developer • Python for AI Tooling • Exploring AI Agents and Crypto 
+  Backend Developer • AI Tooling • Exploring AI Agents and Crypto 
 </p>
 
 
@@ -10,10 +10,10 @@
 
 ##  Currently building
 
-- 📈 [TradingAgents](https://github.com/TauricResearch/TradingAgents) — Multi-agent trading research framework and AI financial analysis workflows
-- 🧠 [LlamaIndex](https://github.com/run-llama/llama_index) — Data framework for LLM applications, RAG pipelines, and agentic tooling
-- 🌱 [spring-alpha](https://github.com/CadeYu/spring-alpha) — Financial AI research workbench with SEC filings, RAG, agent workflows, and full-stack analytics UI
-- 🦙 [DefiLlama](https://github.com/DefiLlama/dimension-adapters) — DeFi data adapters for fees, revenue, users, and on-chain protocol analytics
+- [TradingAgents](https://github.com/TauricResearch/TradingAgents) — Multi-agent trading research framework and AI financial analysis workflows
+- [LlamaIndex](https://github.com/run-llama/llama_index) — Data framework for LLM applications, RAG pipelines, and agentic tooling
+- [spring-alpha](https://github.com/CadeYu/spring-alpha) — Financial AI research workbench with SEC filings, RAG, agent workflows, and full-stack analytics UI
+- [DefiLlama](https://github.com/DefiLlama/dimension-adapters) — DeFi data adapters for fees, revenue, users, and on-chain protocol analytics
 
 ## Currently Exploring
 - AI agents, multi-agent orchestration, and LLM application engineering
