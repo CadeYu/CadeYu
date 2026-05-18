@@ -11,7 +11,6 @@
 ##  Currently building
 
 - [TradingAgents](https://github.com/TauricResearch/TradingAgents) — Multi-agent trading research framework and AI financial analysis workflows
-- [LlamaIndex](https://github.com/run-llama/llama_index) — Data framework for LLM applications, RAG pipelines, and agentic tooling
 - [spring-alpha](https://github.com/CadeYu/spring-alpha) — Financial AI research workbench with SEC filings, RAG, agent workflows, and full-stack analytics UI
 - [DefiLlama](https://github.com/DefiLlama/dimension-adapters) — DeFi data adapters for fees, revenue, users, and on-chain protocol analytics
 
