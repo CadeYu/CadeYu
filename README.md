@@ -10,11 +10,6 @@
   正在寻找 AI Agent、后端、平台工程、LLM 应用工程方向的全职机会
 </p>
 
-<p align="center">
-  <a href="mailto:yu83612457@gmail.com">Email / 邮箱</a> ·
-  <a href="https://github.com/CadeYu">GitHub / GitHub 主页</a>
-</p>
-
 ---
 
 ## Snapshot / 快速概览
@@ -85,12 +80,8 @@ Open-source adapters for DeFi protocol metrics including fees, revenue, users, a
   AI 工程：LLM 应用、RAG、工具调用、Agent、评估工作流
 - Backend: API design, service architecture, data pipelines, task orchestration, reliability  
   后端：API 设计、服务架构、数据管道、任务编排、可靠性
-- Languages: Python, Go, Java, TypeScript, JavaScript  
-  编程语言：Python、Go、Java、TypeScript、JavaScript
-- Frontend: React, TypeScript, analytics and research interfaces  
-  前端：React、TypeScript、分析与研究类交互界面
-- Data and Web3: financial data, SEC filings, DeFi analytics, on-chain metrics  
-  数据与 Web3：金融数据、SEC 文件、DeFi 分析、链上指标
+- Languages: Python, Java, TypeScript  
+  编程语言：Python、Java、TypeScript
 
 ## GitHub Stats / GitHub 数据
 
@@ -103,4 +94,3 @@ Open-source adapters for DeFi protocol metrics including fees, revenue, users, a
 ## Contact / 联系方式
 
 - Email / 邮箱: `yu83612457@gmail.com`
-- GitHub / GitHub 主页: [CadeYu](https://github.com/CadeYu)
